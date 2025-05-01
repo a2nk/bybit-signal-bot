@@ -173,5 +173,6 @@ async function checkMarkets() {
 }
 
 
-// Loop tiap 1 menit
-setInterval(checkMarkets, 60 * 1000);
+// Loop tiap 5 minit
+setInterval(checkMarkets, 5 * 60 * 1000);
+console.log(`[${new Date().toLocaleString()}] Menjalankan pengecekan market tiap 5 minit...`);
