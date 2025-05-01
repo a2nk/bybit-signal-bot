@@ -1,5 +1,5 @@
 # bybit-signal-bot
-Bybit Signal  Bot Telegram TF 5 Minit
+Bybit Signal  Bot Telegram TF 5 Minit, Market Fututres Perpetual BTCUSDT / ETHUSDT / SOLUSDT
 ```bash
 git clone https://github.com/a2nk/bybit-signal-bot.git && cd bybit-signal-bot
 ```
