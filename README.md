@@ -21,3 +21,5 @@ node getChatId.js
 ```bash
 node scalperbybit.js
 ```
+# Contoh notif
+https://t.me/NotifScalperz
