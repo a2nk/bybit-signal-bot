@@ -8,6 +8,11 @@ npm init -y
 npm install axios technicalindicators node-telegram-bot-api
 ```
 ```bash
+chmod +x dns.sh
+./dns.sh
+sudo systemctl restart systemd-resolved
+```
+```bash
 screen -S bybit-a2nk
 ```
 ```bash
