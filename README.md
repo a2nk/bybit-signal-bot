@@ -11,5 +11,8 @@ npm install axios technicalindicators node-telegram-bot-api
 screen -S bybit-a2nk
 ```
 ```bash
+node getChatId.js
+```
+```bash
 node scalperbybit.js
 ```
